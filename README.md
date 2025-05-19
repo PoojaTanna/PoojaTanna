@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @PoojaTanna
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-PoojaTanna/PoojaTanna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @PoojaTanna  
+- 👩‍💻 I’m a UX Designer with a background in Software & Web Development (Bachelor of Applied Information Technology, NZQF Level 7)  
+- 🌱 I’m currently learning web designing and advanced UX design using tools like Figma  
+- 🚀 I’m working on *VbeOn*: a mobile app designed for Android car stereo systems, providing users with a smooth and intuitive interface  
+- 💼 Previously worked as a Computer Operator in India, now focusing on building creative digital solutions in New Zealand  
+- 💞️ I’m looking to collaborate on frontend projects, UI/UX design, small business web solutions, and mobile apps  
+- 📫 How to reach me: poojathakkar.nz@gmail.com  
+- 😄 Pronouns: She
+- ⚡ Fun fact: I love combining logic and creativity to transform ideas into real, usable digital products!
